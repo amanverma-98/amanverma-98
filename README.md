@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi, I'm Aman Verma
 I'm currently working on Generative-AI using Langchain.<br>I have completed Python , Numpy , Pandas , Matplotlib , Seaborn , Mahine Learning , Deep Learning(ANN+CNN+RNN+CNN) , Transformers<br>I have hands-on experience in PyTorch and FastAPI<br>I have strong problem solving skill , currently doing DSA in C++ (Leetcode-150+ problems solved till now)<br>I love to build AI-driven applications.
 
 
