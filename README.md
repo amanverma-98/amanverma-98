@@ -207,7 +207,7 @@ Currently practicing **DSA in C++** with a focus on writing efficient and optimi
 
 ### ⚡ Build. Learn. Solve. Repeat.
 
-**"Curious enough to learn. Crazy enough to build"**
+**Curious enough to learn. Crazy enough to build**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontAlignY=70&animation=twinkling" width="100%"/>
 
