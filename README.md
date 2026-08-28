@@ -49,8 +49,8 @@ My journey started with **Machine Learning and Deep Learning**, and gradually mo
 
 > **I learn by building, and I build to solve**
 
-<div align="center">
 <br>
+<div align="center">
 
 ### 🚀 Systems I've Built
 
@@ -117,8 +117,8 @@ My journey started with **Machine Learning and Deep Learning**, and gradually mo
 
 ---
 
-<div align="center">
 <br>
+<div align="center">
 
 ## 🛠️ Tech Arsenal
 
@@ -231,10 +231,10 @@ graph LR
 
 ## 💼 Experience
 
-**Machine Learning Engineer — Machine Learning Centre of Excellence**
+**Machine Learning Engineer — Machine Learning Centre of Excellence** <br>
 *November 2025 – Present*
 
-**AI Engineer — AWS Cloud Club AKGEC**
+**AI Engineer — AWS Cloud Club AKGEC**<br>
 *December 2025 – Present*
 
 ---
@@ -248,8 +248,8 @@ Currently practicing **DSA in C++**, focusing on problem solving, efficient algo
 
 ---
 
-<div align="center">
 <br>
+<div align="center">
 
 ## 📫 Let's Build Something Amazing
 
@@ -322,6 +322,7 @@ I believe the best way to learn technology is to **build with it**.
 4. **Keep improving** — Every project should teach something new.
 
 <br>
+
 ### My Learning Approach
 
 ```python
@@ -342,8 +343,8 @@ def learn(technology):
 
 ---
 
-<div align="center">
 <br>
+<div align="center">
 
 ### Fun Fact
 
