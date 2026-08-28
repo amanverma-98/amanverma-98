@@ -308,7 +308,7 @@ Currently practicing **DSA in C++**, focusing on problem solving, efficient algo
 
 <details>
 
-<summary>📚 More About My Tech Philosophy</summary>
+<summary> More About My Tech Philosophy</summary>
 
 <br>
 
@@ -343,7 +343,6 @@ def learn(technology):
 
 ---
 
-<br>
 <div align="center">
 
 ### Fun Fact
